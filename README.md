@@ -100,17 +100,24 @@ if(result==-1):
 else:
     print(arr)
     print("Element found at index: ",result)
-    
+
 ```
 ## Sample Input and Output
 ![](linsamp.png)
+
 ![](binsamp.png)
+
 ![](binsamp2.png)
 
 
 ## Output
+Linear Search
 ![](linout.png)
+
+Binary Search(Iterative)
 ![](binout.png)
+
+Binary Search(Recursive)
 ![](binout.png)
 
 ## Result
